@@ -1,6 +1,6 @@
 import java.util.function.Function;
 
-public class FunctionalInterfae {
+public class FunctionalInterface {
 
     public static void main(String[] args) {
         String s1 = "Hello World, Hello Java ";

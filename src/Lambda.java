@@ -1,4 +1,4 @@
-public class Lamb {
+public class Lambda {
     public static void main(String[] args) {
 
         String s1 = "Hello World, Hello Java ";
